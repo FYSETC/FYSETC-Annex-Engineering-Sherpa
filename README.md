@@ -54,9 +54,9 @@ Reduction ratio: 6.25:1
 
 Advantages comparing to Rev 1.1:
 
-1.  8t motor, 25% more torque
+1. 8t motor, 25% more torque
 
-2.  New CNC hollowed-out POM [50t gear](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder/blob/master/STLs/FDM_STLs/optional_parts/printable_sherpa_mini_gear_50t_sl_x1_rev1.stl), higher intensity, more precise
+2. New CNC hollowed-out POM [50t gear](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder/blob/master/STLs/FDM_STLs/optional_parts/printable_sherpa_mini_gear_50t_sl_x1_rev1.stl), higher intensity, more precise
 
 3. Isolate the gear positioning, seamless installation, more precise, check the blue part below.
    
