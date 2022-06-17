@@ -76,7 +76,9 @@ Marlin - Ender3
 
 Method 1: Change the parameter on your firmware
 
+```
 #define DEFAULT_AXIS_STEPS_PER_UNIT   { 80, 80, 400, 870 }
+```
 
 Method 2: Send Gcode to change it
 
@@ -89,6 +91,6 @@ For some printers, you may need to adjust the stepper motor E current to prevent
 
 ### 7. Where to buy
 
-# Tech Support
+## Tech Support
 
 Please submit any technical issue into our [forum](http://forum.fysetc.com/) ，[github](https://github.com/FYSETC/FYSETC-Annex-Engineering-Sherpa/issues)，[facebook](https://www.facebook.com/groups/197476557529090), discord
