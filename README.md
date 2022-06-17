@@ -60,7 +60,7 @@ Advantages comparing to Rev 1.1:
 
 3. Isolate the gear positioning, seamless installation, more precise, check the blue part below.
    
-   ![](F:\Projects\EXTRUDER-ANNEX-Sherpa\FYSETC-Annex-Engineering-Sherpa\isolation.png)
+   ![](isolation.png)
 
 ### 5. Mods
 
